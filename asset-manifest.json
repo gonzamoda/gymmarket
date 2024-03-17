@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gymmarket/static/css/main.fdb9fd7c.css",
-    "main.js": "/gymmarket/static/js/main.029c6ee1.js",
+    "main.js": "/gymmarket/static/js/main.b982063e.js",
     "static/media/slider01.jpg": "/gymmarket/static/media/slider01.43c91f94b4cc5a8444e8.jpg",
     "static/media/slider02.jpg": "/gymmarket/static/media/slider02.cf436a8f1ded2601b329.jpg",
     "static/media/nosotros.jpg": "/gymmarket/static/media/nosotros.1b4ff38e9fa1ec7b0ebf.jpg",
     "index.html": "/gymmarket/index.html",
     "main.fdb9fd7c.css.map": "/gymmarket/static/css/main.fdb9fd7c.css.map",
-    "main.029c6ee1.js.map": "/gymmarket/static/js/main.029c6ee1.js.map"
+    "main.b982063e.js.map": "/gymmarket/static/js/main.b982063e.js.map"
   },
   "entrypoints": [
     "static/css/main.fdb9fd7c.css",
-    "static/js/main.029c6ee1.js"
+    "static/js/main.b982063e.js"
   ]
 }
